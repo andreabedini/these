@@ -54,6 +54,7 @@ library
   exposed-modules:
     Data.Align
     Data.Crosswalk
+    Data.Crosswalk1
     Data.Semialign
     Data.Semialign.Indexed
     Data.Zip
